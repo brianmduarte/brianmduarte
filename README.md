@@ -1,7 +1,11 @@
 ### Hi! My name is Brian Duarte, welcome to my GitHub pages! 👋👨‍💻 
 ##
 
-😄 I'm currently studying HTML5 and CSS3. I'm starting this week the study about Java.
+😄 First, welcome to my Github, it's a pleasure to have you here. I try to bring my projects and experiences here.
+I currently have knowledge about html, css, javascript, git/github and this month (May/23) I'm focusing on developing some projects to put into practice what I learned with the Javascript course.
+
+😄 Primeiramente, seja bem vindo ao meu Github, é um prazer tê-lo por aqui. Busco trazer os meus projetos e experiências para cá. 
+Atualmente tenho conhecimento sobre html, css, javascript, git/github e neste mês (maio/23) estou focando em desenvolver alguns projetos para colocar em prática o que aprendi com o curso de Javascript.
 
 <div align="center">
   <a href="https://github.com/brianmduarte">

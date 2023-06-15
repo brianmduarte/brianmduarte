@@ -5,7 +5,7 @@
 I currently have knowledge about html, css, javascript, git/github and this month (May/23) I'm focusing on developing some projects to put into practice what I learned with the Javascript course.
 
 😄 Primeiramente, seja bem vindo ao meu Github, é um prazer tê-lo por aqui. Busco trazer os meus projetos e experiências para cá. 
-Atualmente tenho conhecimento sobre html, css, javascript, git/github e neste mês (maio/23) estou focando em desenvolver alguns projetos para colocar em prática o que aprendi com o curso de Javascript.
+Atualmente tenho conhecimento sobre html, css, javascript, git/github e neste mês (junho/23) estou focando em desenvolver alguns projetos para colocar em prática o que aprendi com o curso de Javascript.
 
 <div align="center">
   <a href="https://github.com/brianmduarte">

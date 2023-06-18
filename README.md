@@ -9,8 +9,13 @@ Atualmente tenho conhecimento sobre HTML, CSS, Javascript, Git/Github e neste m�
 
 <details>
 
-<summary>Projetos Javascript</summary>
-
+<summary> Projetos Javascript</summary>
+<br>
+<li>Carrinho de compras 🛒 - Projeto hamburgueria: https://brianmduarte.github.io/projeto_hamburgueria/ 
+</li><br>
+<br>
+<li>Urna eletrônica 📊 - https://brianmduarte.github.io/urna_eletronica/
+</li>
 
 </details>
 

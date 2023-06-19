@@ -7,6 +7,26 @@ I currently have knowledge about html, css, javascript, git/github and this mont
 😄 Primeiramente, seja bem vindo ao meu Github, é um prazer tê-lo por aqui. Busco trazer os meus projetos e experiências para cá. 
 Atualmente tenho conhecimento sobre HTML, CSS, Javascript, Git/Github e neste mês (junho/23) estou focado em desenvolver alguns projetos para colocar em prática o que aprendi com o curso de Javascript.
 
+<hr>
+
+Atualmente, sou certificado em HTML, CSS, JavaScript e versionamento de código. Meu objetivo é me tornar um desenvolvedor front-end completo, utilizando minhas habilidades técnicas para criar interfaces atraentes e funcionais. Estou comprometido em aprimorar minhas habilidades em desenvolvimento web, explorando novas tecnologias e frameworks.
+
+Enquanto Analista de Operações há mais de 4 anos pude desenvolver, principalmente, as seguintes competências:<br>
+👨‍👩‍👦 Capacidade de trabalhar em equipe <br>
+⚙️ Adadaptabilidade <br>
+❗ Resolução de problemas <br>
+🔉 Comunicação efetiva <br>
+ℹ️  Organização <br>
+📈 Melhoria de processos <br>
+📑 Pacote Office Avançado <br>
+📞 Suporte ao cliente <br>
+📚 Treinamento de novos colaboradores <br>
+⬆️ Raciocínio lógico e analítico <br>
+💡 Criatividade
+
+
+Estou sempre em busca de novos desafios que me permitam aplicar minha paixão pela tecnologia e criar soluções inovadoras.
+
 <details>
 
 <summary> Projetos Javascript</summary>

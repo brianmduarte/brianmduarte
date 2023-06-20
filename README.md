@@ -13,7 +13,7 @@ Atualmente, sou certificado em HTML, CSS, JavaScript e versionamento de código.
 
 Enquanto Analista de Operações há mais de 4 anos pude desenvolver, principalmente, as seguintes competências:<br>
 👨‍👩‍👦 Capacidade de trabalhar em equipe <br>
-⚙️ Adadaptabilidade <br>
+⚙️ Adaptabilidade <br>
 ❗ Resolução de problemas <br>
 🔉 Comunicação efetiva <br>
 ℹ️  Organização <br>
@@ -34,10 +34,11 @@ Estou sempre em busca de novos desafios que me permitam aplicar minha paixão pe
 <li><a href="https://brianmduarte.github.io/projeto_hamburgueria/" target="_blank">Carrinho de compras 🛒 - Projeto hamburgueria</a>
 </li><br>
 
-<li><a href="https://brianmduarte.github.io/urna_eletronica/" target="_blank"> Urna eletrônica 📊 </a></li>
+<li><a href="https://brianmduarte.github.io/urna_eletronica/" target="_blank"> Urna eletrônica 📊 </a></li> <br>
+<li><a href="https://brianmduarte.github.io/projeto-Slider/"> Slider Show 🎦 </a></li>
 
 </details>
-
+<br>
 <div align="center">
   <a href="https://github.com/brianmduarte">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brianmduarte&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>

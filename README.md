@@ -35,7 +35,8 @@ Estou sempre em busca de novos desafios que me permitam aplicar minha paixão pe
 </li><br>
 
 <li><a href="https://brianmduarte.github.io/urna_eletronica/" target="_blank"> Urna eletrônica 📊 </a></li> <br>
-<li><a href="https://brianmduarte.github.io/projeto-Slider/"> Slider Show 🎦 </a></li>
+<li><a href="https://brianmduarte.github.io/projeto-Slider/"> Slider Show 🎦 </a></li> <br>
+<li><a href="https://brianmduarte.github.io/validador_de_formularios/" target="_blank"> Validador de formulário 📑 </a></li>
 
 </details>
 <br>

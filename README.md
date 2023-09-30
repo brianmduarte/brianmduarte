@@ -1,31 +1,16 @@
 ### Hi! My name is Brian Duarte, welcome to my GitHub pages! 👋👨‍💻 
 ##
 
-😄 First, welcome to my Github, it's a pleasure to have you here. I try to bring my projects and experiences here.
-I currently have knowledge about html, css, javascript, git/github and this month (May/23) I'm focusing on developing some projects to put into practice what I learned with the Javascript course.
 
 😄 Primeiramente, seja bem vindo ao meu Github, é um prazer tê-lo por aqui. Busco trazer os meus projetos e experiências para cá. 
-Atualmente tenho conhecimento sobre HTML, CSS, Javascript, Git/Github e neste mês (junho/23) estou focado em desenvolver alguns projetos para colocar em prática o que aprendi com o curso de Javascript.
-
-<hr>
-
-Atualmente, sou certificado em HTML, CSS, JavaScript e versionamento de código. Meu objetivo é me tornar um desenvolvedor front-end completo, utilizando minhas habilidades técnicas para criar interfaces atraentes e funcionais. Estou comprometido em aprimorar minhas habilidades em desenvolvimento web, explorando novas tecnologias e frameworks.
-
-Enquanto Analista de Operações há mais de 4 anos pude desenvolver, principalmente, as seguintes competências:<br>
-👨‍👩‍👦 Capacidade de trabalhar em equipe <br>
-⚙️ Adaptabilidade <br>
-❗ Resolução de problemas <br>
-🔉 Comunicação efetiva <br>
-ℹ️  Organização <br>
-📈 Melhoria de processos <br>
-📑 Pacote Office Avançado <br>
-📞 Suporte ao cliente <br>
-📚 Treinamento de novos colaboradores <br>
-⬆️ Raciocínio lógico e analítico <br>
-💡 Criatividade
 
 
-Estou sempre em busca de novos desafios que me permitam aplicar minha paixão pela tecnologia e criar soluções inovadoras.
+No momento o meu principal objetivo é encontrar uma oportunidade de estágio para colocar em prática tudo aquilo que tenho trabalhado nos últimos 12 meses, utilizando minhas habilidades técnicas para criar interfaces atraentes e funcionais. Tenho me dedicado constantemente aos estudos e em paralelo estou cursando Análise e Desenvolvimento de Sistemas na PUC Minas, com o objetivo de me tornar um profissional ainda mais completo.
+
+Atualmente tenho conhecimento básico em HTML, CSS, Javascript, Git/Github e Typescript. Também tenho experiência prática em métodos ágeis (principalmente o Kanban).
+
+Se quiser saber mais detalhes sobre minha jornada profissional, dá uma olhadinha no meu Linkedin: https://www.linkedin.com/in/brianmduarte/ 
+Ps: ele está bem completo e busco atualizá-lo frequentemente. 
 
 <details>
 

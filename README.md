@@ -2,13 +2,15 @@
 
 Primeiramente, seja bem vindo ao meu Github! É um prazer tê-lo por aqui. Busco trazer os meus projetos e experiências para cá. 
 
-Sou Bacharel em Ciências Aeronáuticas e graduando em Análise e Desenvolvimento de Sistemas pela PUC Minas, trago uma sólida experiência de 5 anos no ramo de logística, onde desenvolvi habilidades em otimização de processos, análise de dados e indicadores e proposição de estratégias para a alta gestão.
+Profissional de 27 anos, graduado em Ciências Aeronáuticas pela Universidade FUMEC e atualmente cursando Análise e Desenvolvimento de Softwares pela PUC Minas. Com uma sólida base em logística e operações aeromédicas, fiz uma transição bem-sucedida para a área de tecnologia, focando na garantia de qualidade de software (QA).
 
-Durante meu tempo no ramo de logística, conduzi projetos bem-sucedidos que resultaram em importantes melhorias na eficiência operacional e na redução de custos. Além disso, ministrei palestras e contribuí para a integração e treinamento de novos colaboradores.
+Como Analista de Logística e Operações de Transportes Aeromédico (5 anos), desenvolvi habilidades em análise de dados, documentação e melhoria de processos, treinamentos de novos colaboradores, liderança e suporte. Participei de congressos e auditorias, aprimorando minhas capacidades de comunicação e detalhamento operacional.
 
-No momento sou estagiário de QA (Quality Assurance), onde estou aprimorando minhas habilidades em automação de testes, análise de bugs e revisão de código. Tenho utilizado também metodologias ágeis para garantir a qualidade dos softwares, realizando testes de caixa branca e caixa preta.
+Atualmente exerço a função de Estagiário de Quality Assurance (QA), onde sou responsável por assegurar a qualidade dos sistemas através de casos de testes, identificação e registro de bugs, testes automatizados e regressivos. Realizo também testes de dados e Web, garantindo a coerência com a regra de negócio e a funcionalidade esperada pelo usuário final.
 
-Tenho me empenhado em combinar minhas experiências anteriores com a área de QA, a fim de me tornar um profissional altamente capacitado, contribuindo para o desenvolvimento de softwares inovadores e de alta qualidade.
+Busco avançar na carreira de QA, com foco no aprofundamento de conhecimentos em ferramentas de automação e análise de testes, visando contribuir para o desenvolvimento de sistemas escaláveis e funcionais.
+
+Ferramentas e Tecnologias: Azure DevOps, Postman, MongoDb, Cypress, Python e Excel.
 
 ## 🛠 Skills
 

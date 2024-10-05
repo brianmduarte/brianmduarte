@@ -15,11 +15,12 @@ Ferramentas e Tecnologias: Azure DevOps, Postman, MongoDb, Cypress, Python e Exc
 ## 🛠 Skills
 
 Algumas tecnologias que utilizo em minha rotina como QA 🔎🐞:
-- Orange Testing
+- Cypress
+- Playwright
 - MongoDB
 - Postman
 - Azure DevOps
-- Excel (validação de dados)
+- Excel
 
 ### Outras tecnologias que domino:
 - PowerBi
